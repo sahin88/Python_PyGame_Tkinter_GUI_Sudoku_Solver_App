@@ -18,8 +18,8 @@ This Sudoku Solver App
 ## Getting Started
 First clone the repository from Github and switch to the new directory:
 ```
-$ git clone git@github.com/sahin88/sudoku_solver_app.git
-$ cd sudoku_solver_app
+$ git clone git@github.com/sahin88/Python_PyGame_Tkinter_GUI_Sudoku_Solver_App.git
+$ cd Python_PyGame_Tkinter_GUI_Sudoku_Solver_App
 ```
 Create the virtualenv for your project.
 ```
