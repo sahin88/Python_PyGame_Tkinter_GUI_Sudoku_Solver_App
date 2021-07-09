@@ -11,7 +11,7 @@ This Sudoku Solver App
   - 
 
 ##  Basic View
-![alt text](https://github.com/sahin88/image_size_app/blob/main/sudoku.png)
+![alt text](https://github.com/sahin88/sudoku_solver_app/blob/main/sudoku.png)
 
 
 
